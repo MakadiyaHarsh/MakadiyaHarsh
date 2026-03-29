@@ -12,5 +12,5 @@ Skills: C / C++ / Python / Rust / Flutter / JavaScript / ESP32 & IoT / AI & ML /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MakadiyaHarsh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-makadiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](cybervolt.in)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MakadiyaHarsh)  
+
 
